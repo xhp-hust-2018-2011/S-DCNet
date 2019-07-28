@@ -13,7 +13,8 @@ Liang Liu<sup>1</sup>, Zhiguo Cao<sup>1</sup>, [Chunhua Shen](http://cs.adelaide
 <sup>2</sup>The University of Adelaide, Australia
 
 ## Contributions
-- **S-DCNet** transform open-set counting into a closed-set problem
+- **Reformulate counting problem:** We propose S-DCNet, which transforms open-set counting into a closed-set problem via Spatial Divide-and-Conquer;
+- **Simple and effective:** S-DCNet achieves the  state-of-the-art  performance  on  three  crowd  countingdatasets (ShanghaiTech, UCF_CC_50 and UCF-QNRF), a vehicle  counting  dataset  (TRANCOS)  and  a  plant  counting  dataset  (MTC).  Compared  to  the  previous  best  meth-ods, S-DCNet brings a 20.2%relative improvement on the ShanghaiTech PartB, 20.9% on the UCF-QNRF, 22.5% on the TRANCOS and 15.1% on the MTC. 
 
 ## Code will be coming soon!
 
