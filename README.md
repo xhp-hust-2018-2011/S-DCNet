@@ -1,5 +1,5 @@
 # S-DCNet
-This is the official implementation of S-DCNet, presented in our paper:
+This is the repository for S-DCNet, presented in our paper:
 
 **From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer**
 
@@ -12,5 +12,17 @@ Liang Liu<sup>1</sup>, Zhiguo Cao<sup>1</sup>, [Chunhua Shen](http://cs.adelaide
 
 <sup>2</sup>The University of Adelaide, Australia
 
+## Contributions
+- **S-DCNet** transform open-set counting into a closed-set problem
 
 ## Code will be coming soon!
+
+## References
+```
+@inproceedings{xhp2019SDCNet,
+  title={From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer},
+  author={Li, Yuhong and Zhang, Xiaofan and Chen, Deming},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision (ICCV)},
+  year={2019}
+}
+```
