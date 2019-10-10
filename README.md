@@ -14,7 +14,28 @@ Liang Liu<sup>1</sup>, Zhiguo Cao<sup>1</sup>, [Chunhua Shen](http://cs.adelaide
 - **Reformulate counting problem:** We propose S-DCNet, which transforms open-set counting into a closed-set problem via Spatial Divide-and-Conquer;
 - **Simple and effective:** S-DCNet achieves the state-of-the-art performance on three crowd counting datasets (ShanghaiTech, UCF_CC_50 and UCF-QNRF),  a vehicle counting dataset (TRANCOS) and a plant counting dataset (MTC). Compared to the previous best methods, S-DCNet brings a 20.2% relative improvement on the ShanghaiTech Part_B, 20.9% on the UCF-QNRF, 22.5% on the TRANCOS and 15.1% on the MTC.
 
-## Code will come soon!
+## Environment
+- python 3.6
+- pytorch 0.4.0 or higher version
+- numpy 1.14.0
+- scikit-image 0.13.1
+- scipy 1.0.0
+- pandas 0.22.0
+
+## Data
+Test data for ShanghaiTech dataset has been processed, you can download the processed dataset from [SHTech_Data](https://pan.baidu.com/s/1lSqT7_9wCR4xW-rd4gyPpg) with code: ou3b.
+
+## Model
+Trained models can be down load from [SHTech_Model](https://pan.baidu.com/s/1yIyjqdM594Q0Tdw0oBq8_w) with code:1tcb.
+
+## A Quick Demo
+1. Download the code, data and model. 
+2. Then put them in one folder, and the final path structure will look like this:
+
+3. Run the code and have fun.
+> python SHAB_main.py
+
+
 
 ## References
 ```
