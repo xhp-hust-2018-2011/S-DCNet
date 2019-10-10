@@ -50,7 +50,7 @@ Trained models can be down load from [SHTech_Model](https://pan.baidu.com/s/1yIy
     -->IOtools.py
 ```
 
-3. Run the code and have fun.
+3. Run the code and have fun. The mae will be SHA: 57.575 , SHB: 6.633 .
 > python SHAB_main.py
 
 
