@@ -31,6 +31,24 @@ Trained models can be down load from [SHTech_Model](https://pan.baidu.com/s/1yIy
 ## A Quick Demo
 1. Download the code, data and model. 
 2. Then put them in one folder, and the final path structure will look like this:
+```
+-->The whole project
+    -->Test_Data
+        -->SH_partA_Density_map
+        -->SH_partB_Density_map
+    -->model
+        -->SHA
+        -->SHB
+    -->Network
+        -->class_func.py
+        -->merge_func.py
+        -->SDCNet.py
+    -->SHAB_main.py
+    -->main_process.py
+    -->Val.py
+    -->load_data_V2.py
+    -->IOtools.py
+```
 
 3. Run the code and have fun.
 > python SHAB_main.py
