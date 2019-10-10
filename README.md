@@ -1,7 +1,7 @@
 # S-DCNet
 This is the repository for S-DCNet, presented in our paper in the ICCV 2019:
 
-**From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer** [paper](https://arxiv.org/pdf/1908.06473.pdf)
+**From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer** [[paper]](https://arxiv.org/pdf/1908.06473.pdf)
 
 Haipeng Xiong, [Hao Lu](https://sites.google.com/site/poppinace/)<sup>2</sup>, Chengxin Liu<sup>1</sup>,
 Liang Liu<sup>1</sup>, Zhiguo Cao<sup>1</sup>, [Chunhua Shen](http://cs.adelaide.edu.au/~chhshen/)<sup>2</sup>
