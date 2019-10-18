@@ -60,11 +60,12 @@ Pretrained weights can be downloaded from:
 
 
 ## References
+If you find this work or code useful for your research, please cite:
 ```
 @inproceedings{xhp2019SDCNet,
   title={From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer},
   author={Xiong, Haipeng and Lu, Hao and Liu, Chengxin and Liang, Liu and Cao, Zhiguo and Shen, Chunhua},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision (ICCV)},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
   year={2019}
 }
 ```
