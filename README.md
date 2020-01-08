@@ -10,7 +10,7 @@ Liang Liu<sup>1</sup>, Zhiguo Cao<sup>1</sup>, [Chunhua Shen](http://cs.adelaide
 
 <sup>2</sup>The University of Adelaide, Australia
 
-## News
+## News !!!
 An extended version of S-DCNet, i.e., [SS-DCNet](https://github.com/xhp-hust-2018-2011/SS-DCNet) is now available !!! 
 
 ## Contributions
