@@ -11,7 +11,7 @@ Liang Liu<sup>1</sup>, Zhiguo Cao<sup>1</sup>, [Chunhua Shen](http://cs.adelaide
 <sup>2</sup>The University of Adelaide, Australia
 
 ## News
-The extended version of S-DCNet, i.e., [SS-DCNet](https://github.com/xhp-hust-2018-2011/SS-DCNet) is now available !!! 
+An extended version of S-DCNet, i.e., [SS-DCNet](https://github.com/xhp-hust-2018-2011/SS-DCNet) is now available !!! 
 
 ## Contributions
 - **Reformulating the counting problem:** We propose S-DCNet, which transforms open-set counting into a closed-set problem via Spatial Divide-and-Conquer;
