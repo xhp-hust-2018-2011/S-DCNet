@@ -1,7 +1,7 @@
 # S-DCNet
 This is the repository for S-DCNet, presented in our paper in the ICCV 2019:
 
-[**From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer**](https://arxiv.org/pdf/1908.06473.pdf)
+[**From Open Set to Closed Set: Supervised Spatial Divide-and-Conquer for Object Counting**](https://arxiv.org/pdf/2001.01886.pdf)
 
 Haipeng Xiong<sup>1</sup>, [Hao Lu](https://sites.google.com/site/poppinace/)<sup>2</sup>, Chengxin Liu<sup>1</sup>,
 Liang Liu<sup>1</sup>, Zhiguo Cao<sup>1</sup>, [Chunhua Shen](http://cs.adelaide.edu.au/~chhshen/)<sup>2</sup>
@@ -20,9 +20,9 @@ Please install required packages according to `requirements.txt`.
 ## Data
 Testing data for ShanghaiTech dataset have been preprocessed. You can download the processed dataset from:
 
-[Baidu Yun (314M)](https://pan.baidu.com/s/1lSqT7_9wCR4xW-rd4gyPpg) with code: ou3b
+%[Baidu Yun (314M)](https://pan.baidu.com/s/1lSqT7_9wCR4xW-rd4gyPpg) with code: ou3b
 
-[Google Drive (314M)](https://drive.google.com/open?id=1q7ESNoB8cYJTANEuiNlVf8toPSfI81m7)
+%[Google Drive (314M)](https://drive.google.com/open?id=1q7ESNoB8cYJTANEuiNlVf8toPSfI81m7)
 
 ## Model
 Pretrained weights can be downloaded from:
