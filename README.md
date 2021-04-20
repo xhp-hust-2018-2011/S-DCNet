@@ -25,7 +25,7 @@ Testing data for ShanghaiTech dataset have been preprocessed. You can download t
 
 [Baidu Yun (314M)](https://pan.baidu.com/s/1lSqT7_9wCR4xW-rd4gyPpg) with code: ou3b
 
-[Google Drive (314M)](https://drive.google.com/open?id=1q7ESNoB8cYJTANEuiNlVf8toPSfI81m7)
+[Google Drive (314M)](https://drive.google.com/file/d/10lGXpMHfNTa-y_5IN6V2HrjqI39f2Bac/view?usp=sharing)
 
 ## Model
 Pretrained weights can be downloaded from:
