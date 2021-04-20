@@ -32,7 +32,7 @@ Pretrained weights can be downloaded from:
 
 [Baidu Yun (210MB)](https://pan.baidu.com/s/1yIyjqdM594Q0Tdw0oBq8_w) with code: 1tcb
 
-[Google Drive (210MB)](https://drive.google.com/open?id=1gK-aqEpWm2io11_CBzCX3F0EVJcFju25)
+[Google Drive (210MB)](https://drive.google.com/file/d/1vaJsll0K1vkK2keKJoGy18--1j63U27l/view?usp=sharing)
 
 ## A Quick Demo
 1. Download the code, data and model.
